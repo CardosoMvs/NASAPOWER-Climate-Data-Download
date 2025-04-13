@@ -2,6 +2,8 @@
 
 This repository contains a script to download climate data from the **NASA POWER** (Prediction of Worldwide Energy Resources) API for a specified region and time range. The data includes variables such as minimum and maximum air temperature (T2M_MIN, T2M_MAX), precipitation, and other climate-related information on a monthly basis. The goal is to provide an easy way to access these data for climate analysis and environmental studies.
 
+This script is adapted from the original work by [zenklinov/nasapower](https://github.com/zenklinov/nasapower).
+
 ## Features
 
 - **Climate Data Download**: Downloads monthly climate data for selected variables from the NASA POWER API for a defined region.
